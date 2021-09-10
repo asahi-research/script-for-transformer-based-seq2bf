@@ -18,4 +18,4 @@ python ./src/jnc_filter.py \
 
 ## Check dataset
 
-The results of the data splitting we used in our paper are shown in the directory `ids`. Please use it to check the processing results.
+The results of the data splitting in our paper are shown in the directory `ids`. Please use it to check the processing results.
