@@ -12,7 +12,7 @@ sh run.sh
 
 ```bash
 python ./src/jnc_filter.py \
-    --input_plain_path ./data/JNC-corpus.json \
+    --input_path ./data/JNC-corpus.json \
     --output_path ./output/
 ```
 
