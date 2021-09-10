@@ -1,0 +1,5 @@
+data/JNC-corpus.json
+output/data_pair/*
+output/split/*
+.ipynb_checkpoints/
+.gitignore~
