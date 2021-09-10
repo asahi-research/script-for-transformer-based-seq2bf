@@ -1,6 +1,6 @@
 # script-for-transformer-based-seq2bf
 
-This is a repository for Transformer-based Lexically Constrained Headline Generation (EMNLP'21). In this repository, we provide the script to preprocess the JNC corpus and split them into train/valid/test sets. You can get the JNC corpus for a fee ([more details](https://cl.asahi.com/api_data/jnc-jamul-en.html)). Note that we use the 2019 version of the Japanese News Corpus (JNC).
+This is a repository for Transformer-based Lexically Constrained Headline Generation (EMNLP'21). In this repository, we provide the script to preprocess the JNC corpus and split them into train/valid/test sets. You can get the Japanese News Corpus (JNC) for a fee ([more details](https://cl.asahi.com/api_data/jnc-jamul-en.html)). Note that we use the 2019 version of the JNC.
 
 ## Usage
 
